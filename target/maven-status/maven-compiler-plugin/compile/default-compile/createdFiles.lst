@@ -1,0 +1,9 @@
+com\springhibangular\controller\BookController.class
+com\springhibangular\dao\BookDAO.class
+com\springhibangular\config\WebConfig.class
+com\springhibangular\dao\BookDAOImpl.class
+com\springhibangular\model\Book.class
+com\springhibangular\services\BookServiceImpl.class
+com\springhibangular\config\AppConfig.class
+com\springhibangular\config\MyWebAppInitializer.class
+com\springhibangular\services\BookService.class
